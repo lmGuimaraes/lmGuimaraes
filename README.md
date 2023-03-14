@@ -1,2 +1,2 @@
-# hello-world I'm Seelah
+# hello-world
 Test repository
